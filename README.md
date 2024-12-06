@@ -1,7 +1,6 @@
 # WiCSPersonalWebsite
 
-# Helpful Links:
-A guide to HTML:
+# A guide to HTML:
 https://blog.hubspot.com/website/html 
 
 # A guide to learning styling:
